@@ -2,6 +2,8 @@
 
 # Atlas
 
+> ⚠️ **Prototype en cours de développement.** Atlas est un projet d'apprentissage et d'expérimentation. Certaines fonctionnalités sont incomplètes ou instables, et le code n'est pas encore optimisé.
+
 Assistant personnel intelligent : une application de bureau Flutter connectée à un serveur Node.js et à l'IA Gemini de Google.
 
 ## Fonctionnalités
@@ -11,6 +13,16 @@ Assistant personnel intelligent : une application de bureau Flutter connectée �
 - Reconnaissance vocale (dictée)
 - Envoi de fichiers au serveur pour traitement
 - (à vérifier / compléter : mémoire des conversations, synthèse vocale, autres fonctions)
+
+## État du projet
+
+**Statut : prototype (version de départ)**
+
+- ✅ Fonctionnel : (à compléter, par exemple la discussion avec l'IA)
+- 🚧 En cours : (à compléter)
+- 📋 Prévu : (à compléter)
+
+Les retours et suggestions sont les bienvenus.
 
 ## Technologies
 
@@ -65,12 +77,11 @@ flutter run -d windows
 
 ## Captures d'écran
 
-(ajoutez ici 2 ou 3 images : ![Accueil](docs/accueil.png))
+(ajoutez ici 2 ou 3 images : `![Accueil](docs/accueil.png)`)
 
 ## Auteur
 
 André Chevalier (https://github.com/chevalierandre233-cm)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.

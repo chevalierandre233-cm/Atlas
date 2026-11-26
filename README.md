@@ -81,7 +81,7 @@ flutter run -d windows
 
 ## Auteur
 
-André Chevalier (https://github.com/chevalierandre233-cm)
+- [chevalierandre233-cm](https://github.com/chevalierandre233-cm)
 ## Getting Started
 
 This project is a starting point for a Flutter application.

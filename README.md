@@ -80,7 +80,8 @@ flutter run -d windows
 (ajoutez ici 2 ou 3 images : `![Accueil](docs/accueil.png)`)
 
 ## Auteur
-André Chevalier 
+
+(André Chevalier) 
 - [chevalierandre233-cm](https://github.com/chevalierandre233-cm)
 ## Getting Started
 

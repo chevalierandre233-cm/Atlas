@@ -1,0 +1,14 @@
+{
+  "facts": [
+    {
+      "id": "8d982ad6-44cf-497d-bb91-d24abd91ccdf",
+      "content": "Andr� d�veloppe le projet ATLAS avec Flutter, Node.js et Ollama.",
+      "createdAt": "2026-11-04T09:14:49.638Z"
+    },
+    {
+      "id": "01de375c-2b52-4846-b4ec-df6c1d98a26d",
+      "content": "j'étudie l'intelligence artificielle.",
+      "createdAt": "2026-11-04T09:29:35.510Z"
+    }
+  ]
+}

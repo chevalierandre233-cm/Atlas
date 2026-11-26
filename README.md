@@ -12,7 +12,7 @@ Assistant personnel intelligent : une application de bureau Flutter connectée �
 - Analyse de documents : PDF, Word (.docx) et images (OCR)
 - Reconnaissance vocale (dictée)
 - Envoi de fichiers au serveur pour traitement
-- (à vérifier / compléter : mémoire des conversations, synthèse vocale, autres fonctions)
+- mémoire des conversations, synthèse vocale, autres fonctions
 
 ## État du projet
 
@@ -64,7 +64,7 @@ Créez un fichier `.env` dans `atlas-server` :
 ```
 GEMINI_API_KEY=votre_cle_ici
 ```
-Puis lancez le serveur (à vérifier : nom du fichier d'entrée) :
+Puis lancez le serveur:
 ```bash
 node server.js
 ```
